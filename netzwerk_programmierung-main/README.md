@@ -3,10 +3,9 @@
 ## Group: Gerland&Baylan
 
 Murat Can Baylan  
-MatNr.: s931037
 
 Tayfun Gerland  
-MatNr.: s932274
+
 
 ## Documentation 
 for the code documentation google docstrings is used
